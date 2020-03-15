@@ -27,5 +27,5 @@ In above host and port refer to below
 - port : 9090 (It cab be changed from application.properties file under src/main/resource folder)
 
 ### Authors
-- Nilesh Gupta
+- Chetan Kumar
 
